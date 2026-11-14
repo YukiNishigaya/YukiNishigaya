@@ -3,6 +3,10 @@
 <!--
 **YukiNishigaya/YukiNishigaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![viberank rank](https://www.viberank.app/api/badge/YukiNishigaya)](https://www.viberank.app/profile/YukiNishigaya)
+[![viberank cost](https://www.viberank.app/api/badge/YukiNishigaya?metric=cost)](https://www.viberank.app/profile/YukiNishigaya)
+[![viberank tokens](https://www.viberank.app/api/badge/YukiNishigaya?metric=tokens)](https://www.viberank.app/profile/YukiNishigaya)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
