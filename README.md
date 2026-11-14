@@ -7,12 +7,13 @@ Rankings on viberank, a public leaderboard of AI coding usage. Claude Code and C
 
 [![viberank all-time rank](https://www.viberank.app/api/badge/YukiNishigaya)](https://www.viberank.app/profile/YukiNishigaya)
 [![viberank all-time tokens](https://www.viberank.app/api/badge/YukiNishigaya?metric=tokens)](https://www.viberank.app/profile/YukiNishigaya)  
-全期間の総合順位と総トークン数。全期間は記録開始（2026 年 7 月）以降の累計、順位は API 換算額順。1 日 2 回自動更新。  
-All-time overall rank and total tokens: cumulative since records began (July 2026), ranked by API-equivalent usage. Updated twice daily.
+累積の総合順位（API金額換算値）と総トークン数。  
+Cumulative overall rank (by API-equivalent cost) and total tokens.
 
-[![viberank 30-day tokens](https://raw.githubusercontent.com/YukiNishigaya/YukiNishigaya/main/viberank-30d.svg)](https://www.viberank.app/profile/YukiNishigaya)  
-直近 30 日のトークン使用量の順位。1 日 2 回自動更新。  
-Rank by tokens over the last 30 days. Updated twice daily.
+[![viberank 30-day token rank](https://raw.githubusercontent.com/YukiNishigaya/YukiNishigaya/main/viberank-30d.svg)](https://www.viberank.app/profile/YukiNishigaya)
+[![viberank 30-day tokens](https://raw.githubusercontent.com/YukiNishigaya/YukiNishigaya/main/viberank-30d-tokens.svg)](https://www.viberank.app/profile/YukiNishigaya)  
+直近 30 日のトークン数順位とトークン数  
+Token rank and token count over the last 30 days
 
 <!--
 [![viberank cost](https://www.viberank.app/api/badge/YukiNishigaya?metric=cost)](https://www.viberank.app/profile/YukiNishigaya)
