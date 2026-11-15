@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<!-- viberank badges hidden 2026-11-15 (owner: 一旦外す). To restore, move this block back out of the comment.
 ### viberank
 
 AI コーディング使用量の公開ランキング viberank での順位。Claude Code と Codex の合算。  
@@ -14,6 +15,7 @@ Cumulative overall rank (by API-equivalent cost) and total tokens.
 [![viberank 30-day tokens](https://raw.githubusercontent.com/YukiNishigaya/YukiNishigaya/main/viberank-30d-tokens.svg)](https://www.viberank.app/profile/YukiNishigaya)  
 直近 30 日のトークン数順位とトークン数  
 Token rank and token count over the last 30 days
+-->
 
 <!--
 [![viberank cost](https://www.viberank.app/api/badge/YukiNishigaya?metric=cost)](https://www.viberank.app/profile/YukiNishigaya)
