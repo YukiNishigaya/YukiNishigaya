@@ -1,4 +1,5 @@
-## Hi there 👋
+開発したアプリの一部は、オープンソースライセンスで[株式会社アグロデザイン・スタジオのリポジトリ](https://github.com/AgroDesign-Studios)より配布しています。  
+Some of the apps I have developed are distributed under open-source licenses from the [AgroDesign Studios, Inc. repositories](https://github.com/AgroDesign-Studios).
 
 <!-- viberank badges hidden 2026-11-15 (owner: 一旦外す). To restore, move this block back out of the comment.
 ### viberank
