@@ -3,15 +3,17 @@ Some of the apps I have developed are distributed under open-source licenses fro
 
 ### Tokscale
 
-AI コーディング使用量の公開ランキング Tokscale での順位。Claude Code・Codex・Grok の合算。
-Rankings on Tokscale, a public leaderboard of AI coding usage. Claude Code, Codex and Grok combined.
+AI トークン使用量の公開ランキング Tokscale での順位。
+Rankings on Tokscale, a public leaderboard of AI tokens usage. 
 
 [![Tokscale all-time rank](https://tokscale.ai/api/badge/YukiNishigaya/svg?metric=rank)](https://tokscale.ai/u/YukiNishigaya)
 [![Tokscale all-time tokens](https://tokscale.ai/api/badge/YukiNishigaya/svg)](https://tokscale.ai/u/YukiNishigaya)
+
 累積の総合順位（トークン数）と総トークン数。
 Cumulative overall rank (by tokens) and total tokens.
 
 [![Tokscale last 30 days](https://tokscale.ai/api/embed/YukiNishigaya/svg?period=month)](https://tokscale.ai/u/YukiNishigaya)
+
 直近 30 日の順位・トークン数・金額換算値。
 Rank, tokens and API-equivalent cost over the last 30 days.
 
