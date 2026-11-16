@@ -1,17 +1,11 @@
 開発したアプリの一部は、オープンソースライセンスで[株式会社アグロデザイン・スタジオのリポジトリ](https://github.com/AgroDesign-Studios)より配布しています。  
 Some of the apps I have developed are distributed under open-source licenses from the [AgroDesign Studios repositories](https://github.com/AgroDesign-Studios).
 
-### Tokscale
-
-AI トークン使用量の公開ランキング Tokscale での順位。
-Rankings on Tokscale, a public leaderboard of AI tokens usage. 
-
-
+### Tokscale （AI トークン使用量の公開ランキング）
 
 [![Tokscale last 30 days](https://tokscale.ai/api/embed/YukiNishigaya/svg?period=month)](https://tokscale.ai/u/YukiNishigaya)
-
-直近 30 日の順位・トークン数・金額換算値。
-Rank, tokens and API-equivalent cost over the last 30 days.
+直近 30 日の順位・トークン数・金額換算値
+Rank, tokens and API-equivalent cost over the last 30 days.Rankings on Tokscale, a public leaderboard of AI tokens usage. 
 
 <!-- viberank badges hidden 2026-11-15 (owner: 一旦外す). To restore, move this block back out of the comment.
 ### viberank
