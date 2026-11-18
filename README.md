@@ -6,11 +6,10 @@ Some of the apps I have developed are distributed under open-source licenses fro
 　
 
 ### Tokscale （AI トークン使用量の公開ランキング）
-[![Tokscale last 30 days](https://tokscale.ai/api/embed/YukiNishigaya/svg?period=month)](https://tokscale.ai/u/YukiNishigaya)
+[![Tokscale last 30 days](https://tokscale.ai/api/embed/YukiNishigaya/svg?period=month&sort=cost)](https://tokscale.ai/u/YukiNishigaya)
 
-直近30日のスコア（トークン数/API金額換算値/順位）
-
-Tokens, API-equivalent cost and Rank over the last 30 days.Rankings on Tokscale, a public leaderboard of AI tokens usage. 
+直近30日のスコア:トークン数/API金額換算値/順位（金額換算）
+Tokens, API-equivalent cost and Cost Rank over the last 30 days. Rankings on Tokscale, a public leaderboard of AI tokens usage. 
 
 <!-- viberank badges hidden 2026-11-15 (owner: 一旦外す). To restore, move this block back out of the comment.
 ### viberank
